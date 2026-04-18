@@ -1,0 +1,9 @@
+order_id,region,product,revenue
+1,North,A,500
+2,South,B,700
+3,East,C,300
+4,West,A,900
+5,North,B,1200
+6,South,C,450
+7,East,A,650
+8,West,B,800
